@@ -1,4 +1,4 @@
-# CDN 加速文件存放地
+# gh-cdn
 
 本仓库用于存放需要通过 CDN 加速访问的静态文件（图片、CSS、JS 等），借助 jsDelivr 和 Staticaly 两大免费 CDN 服务，实现全球加速分发。
 
